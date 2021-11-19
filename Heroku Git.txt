@@ -1,0 +1,9 @@
+git init
+git config --global user.email lakithp6@gmail.com
+git config --global user.name LakithPL
+heroku login
+heroku create covidappapi
+git add .
+git commit -m "my first commit"
+git remote -v
+git push heroku master

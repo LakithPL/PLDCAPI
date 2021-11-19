@@ -1,0 +1,17 @@
+[
+    {
+        "local_new_cases": 737,
+        "local_total_cases": 554459,
+        "local_total_number_of_individuals_in_hospitals": 13772,
+        "local_deaths": 14072,
+        "local_new_deaths": 15,
+        "local_recovered": 525560,
+        "local_active_cases": 14827,
+        "global_new_cases": 510016,
+        "global_total_cases": 249461042,
+        "global_deaths": 5047622,
+        "global_new_deaths": 7456,
+        "global_recovered": 225913434,
+        "total_pcr_testing_count": 5584349
+    }
+]
